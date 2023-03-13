@@ -4,7 +4,7 @@
   "description": "HAProxy Load balanced Microservices",
   "main": "index.js",
   "scripts": {
-    "app": "node index.js"
+    "start": "node index.js"
   },
   "author": "samnzay",
   "license": "ISC",
