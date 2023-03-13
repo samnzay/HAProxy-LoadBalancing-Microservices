@@ -2,4 +2,6 @@
 
 ### Architecture Overview
 
-* [HAProxy LoadBalancer in Microservices ](architecture/LoadBalancedMicrocervices.jpeg)
+* [LoadBalanced Microservices with HAProxy ](architecture/LoadBalancedMicrocervices.jpeg)
+
+! [LoadBalanced Microservices with HAProxy ](architecture/LoadBalancedMicrocervices.jpeg)
