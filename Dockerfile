@@ -3,7 +3,7 @@ FROM node:14
 # Specify the working directory
 WORKDIR /home/node/app
 # Copy current application to the Workdir
-COPY app /home/node/app/
+COPY app /home/node/app
 
 # Install dependecies inside the app container
 RUN npm install
