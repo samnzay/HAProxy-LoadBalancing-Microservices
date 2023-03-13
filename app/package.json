@@ -1,0 +1,15 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "HAProxy Load balanced Microservices",
+  "main": "index.js",
+  "scripts": {
+    "app": "node index.js"
+  },
+  "author": "samnzay",
+  "license": "ISC",
+
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
