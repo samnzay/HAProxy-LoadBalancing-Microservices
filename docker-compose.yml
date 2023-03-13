@@ -6,17 +6,26 @@ services:
     ports:
       - "8080:8080"
     volumes:
-      - ./haproxy:usr/local/etc/haproxy
+      - "./haproxy:/usr/local/etc/haproxy"
   node-app1:
-    image: nodeapp
+    image: node-application
     environment:
       - APPID=1111
   node-app2:
-    image: nodeapp
+    image: node-application
     environment:
       - APPID=2222
   node-app3:
-    image: nodeapp
+    image: node-application
     environment:
       - APPID=3333
+  node-app4:
+    image: node-application
+    environment:
+      - APPID=4444
+
+  node-app5:
+    image: node-application
+    environment:
+      - APPID=5555
     
