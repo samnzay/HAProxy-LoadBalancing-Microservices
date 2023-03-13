@@ -2,6 +2,6 @@
 
 ### Architecture Overview
 
-* [LoadBalanced Microservices with HAProxy ](architecture/LoadBalancedMicrocervices.jpeg)
+* [LoadBalanced NodeJS Microservices with HAProxy ](architecture/LoadBalancedMicrocervices.jpeg)
 
-! [LoadBalanced Microservices with HAProxy ](architecture/LoadBalancedMicrocervices.jpeg)
+![LoadBalanced NodeJS Microservices with HAProxy ](architecture/LoadBalancedMicrocervices.jpeg)
